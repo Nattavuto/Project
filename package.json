@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "all": "^0.0.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.2",
+    "jwt-simple": "^0.5.6",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "sqlite-json": "^1.1.0",
+    "sqlite3": "^5.0.2"
+  }
+}
